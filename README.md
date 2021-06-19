@@ -1,1 +1,1 @@
-# libjimmy-log
+# libjimmy-logger
